@@ -1,8 +1,8 @@
-import EventListenerTask from "./components/EventListenerTask";
+import MainContent from "./components/MainContent";
 function App() {
   return (
     <div className="App">
-      <EventListenerTask btnText="Click me" />
+      <MainContent />
     </div>
   );
 }
